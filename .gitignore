@@ -9,3 +9,7 @@
 
 # Executable files
 *.EXE
+*.COM
+
+# tags
+tags
