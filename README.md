@@ -5,10 +5,10 @@ Some of my tasm programs. Tested under MS-DOS, FreeDOS and DOSBox.
 Will draw some lines and circles on the screen, while making noises on the PC speaker. When it's done you can make some noises yourself with the home row keys, or test the experimental integer rotation algorithm by pressing W. Press X to exit.
 
 ### piano.asm
-Just the homerow piano from ekr.asm seperated.
+Just the homerow piano from ekr.asm separated.
 
 ### parz.asm
-A simple primality test. Does not work with numbers bugger than 9276, though don't quite remeber why.
+A simple primality test. Does not work with numbers bigger than 9276, though don't quite remeber why.
 
 ### mypm.asm
 This one just says hello from protected mode.
